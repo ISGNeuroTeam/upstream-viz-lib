@@ -1,0 +1,16 @@
+rest:
+  host: 192.168.4.65
+  port: 80
+  user: admin
+  password: "12345678"
+  cache_port: 80
+
+data:
+  path: upstream_viz_lib/data
+  html: ./html
+
+pandarallel:
+  n_cores: 4
+
+logs:
+  path: ./logs/application.log

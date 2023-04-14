@@ -1,0 +1,4 @@
+ksolver==0.4.02
+ot_simple_connector==0.1.9
+upstream==0.2.11
+pandarallel==1.5.8
